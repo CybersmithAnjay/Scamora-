@@ -1,0 +1,6 @@
+{
+  "name": "SCAMORA - Cyber Sentinel Threat Defense",
+  "description": "AI-powered real-time scam and threat protection system with cyber-glassmorphism interface, deepfake voice detection, incident investigator reporting, and live defense sequences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
